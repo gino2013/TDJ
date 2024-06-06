@@ -44,8 +44,8 @@ project_root/
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/character-upgrade-simulation.git
-    cd character-upgrade-simulation
+    git clone https://github.com/gino2013/TDJ.git
+    cd TDJ
     ```
 
 2. Create and activate a virtual environment:
